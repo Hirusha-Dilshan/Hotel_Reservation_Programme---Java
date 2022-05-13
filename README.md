@@ -1,1 +1,1 @@
-# SD2-Java
+# Hotel_Resevation_System
